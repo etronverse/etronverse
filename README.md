@@ -1,6 +1,6 @@
-<!-- <div>
-    <img align="right" src="http://etronhatton.42web.io/public/index.php?action=get_info_badge&name=profile_view&display_name=Profile%20View&color=0e75b6&i=1" alt="EtronVerse" />
-</div> -->
+<div>
+    <img align="right" src="http://etronhatton.42web.io/public/index.php?action=get_info_badge&name=profile_view&display_name=Profile%20View&color=0e75b6" alt="EtronVerse" />
+</div>
 <h1 align="center">Hello 👋, I'm Etron Hatton.</h1>
 
 <p align="center">

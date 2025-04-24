@@ -1,5 +1,5 @@
 <div>
-    <img align="right" src="http://etronhatton.42web.io/public/index.php?action=get_info_badge&name=profile_view&display_name=Profile%20View&color=0e75b6" alt="EtronVerse" />
+    <img align="right" src="https://komarev.com/ghpvc/?username=EtronVerse&label=Profile%20views&color=0e75b6&style=flat" alt="EtronVerse" />
 </div>
 <h1 align="center">Hello 👋, I'm Etron Hatton.</h1>
 

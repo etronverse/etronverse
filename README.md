@@ -21,7 +21,7 @@
 </p> -->
 
 <h3 align="left">AI/ML & Data Science Tools:</h3>
-<div style="display: flex;">
+<div display="flex;">
     <div align="center" width="90">
         <img src="http://etronhatton.42web.io/assets/svg/TensorFlow.svg" alt="icon" width="55" height="55" />
         <br>TensorFlow

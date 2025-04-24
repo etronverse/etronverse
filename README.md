@@ -1,6 +1,6 @@
-<div>
+<!-- <div>
     <img align="right" src="http://etronhatton.42web.io/public/index.php?action=get_info_badge&name=profile_view&display_name=Profile%20View&color=0e75b6&i=1" alt="EtronVerse" />
-</div>
+</div> -->
 <h1 align="center">Hello 👋, I'm Etron Hatton.</h1>
 
 <p align="center">
@@ -18,10 +18,10 @@
 </p> -->
 
 <p align="center">  
-    <img src="http://etronhatton.42web.io/assets/svg/github_story.svg" alt="EtronVerse" />
+    <img src="http://etronhatton.42web.io/assets/svg/github_history.svg" alt="EtronVerse" />
 </p> 
 
-<h3 align="left">Data Science & Machine Learning:</h3>
+<h3 align="center">Data Science & Machine Learning:</h3>
 <table align="center">
   <tr>
     <td align="center" width="90">
@@ -63,7 +63,7 @@
   </tr>
 </table>
 
-<h3 align="left">Full-Stack Languages:</h3>
+<h3 align="center">Full-Stack Languages:</h3>
 <table align="center">
     <tr>
         <td align="center" width="90">
@@ -153,7 +153,7 @@
     </tr>
 </table>
 
-<h3 align="left">Frameworks & Technologies:</h3>
+<h3 align="center">Frameworks & Technologies:</h3>
 <table align="center">
     <tr>
         <td align="center" width="90">
@@ -217,7 +217,7 @@
     </tr>
 </table>
 
-<h3 align="left">Project Management Tools & Databases:</h3>
+<h3 align="center">Project Management Tools & Databases:</h3>
 <table align="center">
     <tr>
         <td align="center" width="90">
@@ -254,7 +254,7 @@
         </td>
     </tr>
 </table>
-<h3 align="left">Cloud & Other Technologies:</h3>
+<h3 align="center">Cloud & Other Technologies:</h3>
 <table align="center">
     <tr>
         <td align="center" width="90">

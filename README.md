@@ -24,40 +24,36 @@
 <table align="center">
   <tr>
     <td align="center" width="90">
-      <img src="https://techstack-generator.vercel.app/react-icon.svg" alt="icon" width="55" height="55" />
+      <img src="http://etronhatton.42web.io/assets/svg/TensorFlow.svg" alt="icon" width="55" height="55" />
       <br>TensorFlow
     </td>
     <td align="center" width="90">
-      <img src="https://techstack-generator.vercel.app/react-icon.svg" alt="icon" width="55" height="55" />
+      <img src="http://etronhatton.42web.io/assets/svg/PyTorch.svg" alt="icon" width="55" height="55" />
       <br>PyTorch
     </td>
     <td align="center" width="90">
-      <img src="https://techstack-generator.vercel.app/react-icon.svg" alt="icon" width="55" height="55" />
+      <img src="http://etronhatton.42web.io/assets/svg/Trello.svg" alt="icon" width="55" height="55" />
       <br>HuggingFace
     </td>
     <td align="center" width="90">
-      <img src="https://techstack-generator.vercel.app/react-icon.svg" alt="icon" width="55" height="55" />
+      <img src="http://etronhatton.42web.io/assets/svg/langchain-color.svg" alt="icon" width="55" height="55" />
       <br>LangChain
     </td>
     <td align="center" width="90">
-      <img src="https://techstack-generator.vercel.app/react-icon.svg" alt="icon" width="55" height="55" />
+      <img src="http://etronhatton.42web.io/assets/svg/langgraph-color.svg" alt="icon" width="55" height="55" />
       <br>LangGraph
     </td>
     <td align="center" width="90">
-      <img src="https://techstack-generator.vercel.app/react-icon.svg" alt="icon" width="55" height="55" />
+      <img src="http://etronhatton.42web.io/assets/svg/NumPy.svg" alt="icon" width="55" height="55" />
       <br>NumPy
     </td>
     <td align="center" width="90">
-      <img src="https://techstack-generator.vercel.app/react-icon.svg" alt="icon" width="55" height="55" />
+      <img src="http://etronhatton.42web.io/assets/svg/Pandas.svg" alt="icon" width="55" height="55" />
       <br>Pandas
     </td>
     <td align="center" width="90">
-      <img src="https://techstack-generator.vercel.app/react-icon.svg" alt="icon" width="55" height="55" />
+      <img src="http://etronhatton.42web.io/assets/svg/OpenCV.svg" alt="icon" width="55" height="55" />
       <br>OpenCV
-    </td>
-    <td align="center" width="90">
-      <img src="https://techstack-generator.vercel.app/react-icon.svg" alt="icon" width="55" height="55" />
-      <br>MLflow
     </td>
   </tr>
 </table>
@@ -66,24 +62,16 @@
 <table align="center">
   <tr>
     <td align="center" width="90">
-      <img src="https://techstack-generator.vercel.app/react-icon.svg" alt="icon" width="55" height="55" />
+      <img src="http://etronhatton.42web.io/assets/svg/Jira.svg" alt="icon" width="55" height="55" />
       <br>Jira
     </td>
     <td align="center" width="90">
-      <img src="https://techstack-generator.vercel.app/react-icon.svg" alt="icon" width="55" height="55" />
+      <img src="http://etronhatton.42web.io/assets/svg/Confluence.svg" alt="icon" width="55" height="55" />
       <br>Confluence
     </td>
     <td align="center" width="90">
-      <img src="https://techstack-generator.vercel.app/react-icon.svg" alt="icon" width="55" height="55" />
+      <img src="http://etronhatton.42web.io/assets/svg/Trello.svg" alt="icon" width="55" height="55" />
       <br>Trello
-    </td>
-    <td align="center" width="90">
-      <img src="https://techstack-generator.vercel.app/react-icon.svg" alt="icon" width="55" height="55" />
-      <br>Excel
-    </td>
-    <td align="center" width="90">
-      <img src="https://techstack-generator.vercel.app/react-icon.svg" alt="icon" width="55" height="55" />
-      <br>Microsoft Project
     </td>
   </tr>
 </table>

@@ -55,6 +55,10 @@
       <img src="http://etronhatton.42web.io/assets/svg/OpenCV.svg" alt="icon" width="55" height="55" />
       <br>OpenCV
     </td>
+    <td align="center" width="90">
+      <img src="http://etronhatton.42web.io/assets/svg/Mlflow.svg" alt="icon" width="55" height="55" />
+      <br>MLflow
+    </td>
   </tr>
 </table>
 
@@ -75,8 +79,38 @@
     </td>
   </tr>
 </table>
-<h3 align="left">Languages and Tools:</h3>
+<h3 align="left">Full-Stack Languages and Tools:</h3>
 <table align="center">
+  <tr>
+    <td align="center" width="90">
+      <img src="http://etronhatton.42web.io/assets/svg/sencha.svg" alt="icon" width="55" height="55" />
+      <br>Sencha-Ext.js
+    </td>
+    <td align="center" width="90">
+      <img src="http://etronhatton.42web.io/assets/svg/NHibernate.svg" alt="icon" width="55" height="55" />
+      <br>NHibernate
+    </td>
+    <td align="center" width="90">
+      <img src="http://etronhatton.42web.io/assets/svg/Ubuntu.svg" alt="icon" width="55" height="55" />
+      <br>Ubuntu
+    </td>
+    <td align="center" width="90">
+      <img src="http://etronhatton.42web.io/assets/svg/RabbitMQ.svg" alt="icon" width="55" height="55" />
+      <br>RabbitMQ
+    </td>
+    <td align="center" width="90">
+      <img src="http://etronhatton.42web.io/assets/svg/swagger-svgrepo-com.svg" alt="icon" width="55" height="55" />
+      <br>Swagger
+    </td>
+    <td align="center" width="90">
+      <img src="http://etronhatton.42web.io/assets/svg/microsoft-sql-server-logo-svgrepo-com.svg" alt="icon" width="55" height="55" />
+      <br>MSSQL Server
+    </td>
+    <td align="center" width="90">
+      <img src="http://etronhatton.42web.io/assets/svg/icons8-.net-framework.svg" alt="icon" width="55" height="55" />
+      <br>.Net Framework
+    </td>
+  </tr>
   <tr>
     <td align="center" width="90">
       <img src="https://techstack-generator.vercel.app/react-icon.svg" alt="icon" width="55" height="55" />
